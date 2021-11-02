@@ -1,5 +1,5 @@
 # PDF-Reader
-A pdf reader created using clean architecture principle in android
+A multi modular pdf reader created using clean architecture principle in android
 
 This application demonstrates the clean architecture principle in android. It contains two modules: 
 app module: this houses the presentation and framework layer
